@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chai": "^4.3.6",
+    "circom_tester": "^0.0.14",
+    "mocha": "^10.0.0",
+    "path": "^0.12.7",
+    "snarkjs": "git+https://github.com/vb7401/snarkjs.git#fae4fe381bdad2da13eee71010dfe477fc694ac1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

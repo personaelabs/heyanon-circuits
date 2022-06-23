@@ -1,0 +1,6 @@
+[submodule "circom-ecdsa"]
+	path = circom-ecdsa
+	url = https://github.com/0xPARC/circom-ecdsa
+[submodule "rapidsnark"]
+	path = rapidsnark
+	url = https://github.com/iden3/rapidsnark
