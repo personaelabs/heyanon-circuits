@@ -25,3 +25,7 @@ yarn
 
 Download a Powers of Tau file with `2^21` constraints and copy it into the
 `circuits` subdirectory of the project, with the name `pot21_final.ptau`. We do not provide such a file in this repo due to its large size. You can download and copy Powers of Tau files from the Hermez trusted setup from [this repository](https://github.com/iden3/snarkjs#7-prepare-phase-2).
+
+## Compiling circuits into prover/verifier keys
+
+Follow the scripts in `/scripts` in order to generate chunked zkeys for this circuit. You will need a machine with large RAM and SWAP to perform these operations, we used a `r5.4xlarge` AWS machine to generate everything.
