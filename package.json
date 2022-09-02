@@ -4,7 +4,7 @@
     "circom_tester": "^0.0.14",
     "mocha": "^10.0.0",
     "path": "^0.12.7",
-    "snarkjs": "git+https://github.com/vb7401/snarkjs.git#fae4fe381bdad2da13eee71010dfe477fc694ac1"
+    "snarkjs": "git+https://github.com/vb7401/snarkjs.git#24981febe8826b6ab76ae4d76cf7f9142919d2b8"
   },
   "scripts": {
     "test": "mocha"
