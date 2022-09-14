@@ -1,6 +1,6 @@
-# dizkus-circuits
+# Personae Labs Circuits
 
-diZKus standard circuit
+Circuits for heyanon and other projects!
 
 ## Setup
 
